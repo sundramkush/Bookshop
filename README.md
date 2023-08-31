@@ -1,2 +1,2 @@
 # Bookshop
-using pyqt5, sqlite, python
+Backend working of a Bookshop/Library created using PyQt5, SQLite, Python
